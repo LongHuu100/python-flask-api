@@ -1,0 +1,9 @@
+python-dotenv==0.11.0
+Flask==1.1.1
+flask-restx==0.1.1
+pytest-flask==0.15.1
+flask-bcrypt==0.7.1
+pytest==5.3.5
+pytest-cov==2.8.1
+faker==4.0.1
+werkzeug==0.16.0
